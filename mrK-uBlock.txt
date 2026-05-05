@@ -77,3 +77,7 @@ mxtoolbox.com##.ad-cards-container
 ! May 3, 2026
 ! Amazon Rufus AI
 ||*^*rufus$domain=amazon.com
+
+! May 5, 2026 https://appnee.com
+! Adblock detection
+appnee.com###safety-verify
