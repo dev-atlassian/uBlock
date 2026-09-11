@@ -81,3 +81,7 @@ mxtoolbox.com##.ad-cards-container
 ! May 5, 2026 https://appnee.com
 ! Adblock detection
 appnee.com###safety-verify
+
+! Sep 10, 2026
+! Discord shop, nitro
+discord.com##ul[aria-label="Direct Messages"]>:has([href="/store"],[href="/shop"],[href="/quest-home"])
