@@ -76,3 +76,9 @@ appnee.com###safety-verify
 ! Sep 10, 2026
 ! Discord shop, nitro
 discord.com##ul[aria-label="Direct Messages"]>:has([href="/store"],[href="/shop"],[href="/quest-home"])
+
+! Sep 12, 2026 https://www.amazon.com
+www.amazon.com###gwm-Deck-cf
+
+! Sep 12, 2026 https://vnexpress.net
+vnexpress.net###supper_masthead
